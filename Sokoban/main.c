@@ -75,7 +75,7 @@ int main() {
     
     printf("\nVotre partie est enregistrée dans le fichier end.txt !\n");
 
-    printf("\nMerci d'avoir joué !");
+    printf("\nMerci d'avoir joué !\n\n");
 
     exit(0);
 }
